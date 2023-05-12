@@ -1,0 +1,19 @@
+/*estilos para la tarea 5 y 6*/
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: beige;
+}
+
+.cabeza{
+background-color: rgb(80, 133, 146);
+    width: 100%;
+}
+
+footer{
+    background-color: cyan;
+}
+
+td{
+    border-radius: 5px;
+}
